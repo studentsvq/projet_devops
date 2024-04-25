@@ -1,0 +1,5 @@
+function maFonction() {
+    console.log("Bonjour, ceci est une fonction JavaScript !");
+}
+
+maFonction();
