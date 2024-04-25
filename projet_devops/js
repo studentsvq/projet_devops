@@ -1,5 +1,5 @@
 function maFonction() {
-  alert("Ne pas cliquer !");
+  alert("Ne pas cliquer ok!");
 }
 
 maFonction();
