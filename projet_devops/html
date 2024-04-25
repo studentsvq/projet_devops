@@ -3,28 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Utilisez un seul titre -->
-    <title>Page HTML avec JavaScript et CSS</title>
 
-    <!-- Lien vers le fichier CSS -->
     <link rel="stylesheet" href="mon_style.css">
 </head>
 <body>
 
-    <!-- Le contenu de la première partie -->
     <h1>Page HTML avec JavaScript</h1>
     
-    <!-- Inclure le fichier JavaScript -->
     <script src="mon_script.js"></script>
 
-    <!-- Le contenu de la deuxième partie -->
-    <h1>Titre principal</h1>
+    <h1>Premiere version</h1>
     
     <p>Ceci est un paragraphe avec du style.</p>
 
+    <img src="C:\Users\vanes\projet_devops\photo.avif" alt="Photo">
+
 </body>
 </html>
-
 
 
 
