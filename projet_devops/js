@@ -1,5 +1,5 @@
 function maFonction() {
-    console.log("Bonjour, ceci est une fonction JavaScript !");
+  alert("Ne pas cliquer !");
 }
 
 maFonction();
